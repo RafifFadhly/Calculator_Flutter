@@ -13,10 +13,6 @@ Fitur :
 - History (Database Local SQLlite)
 - Hapus History
 
-![Contoh Screenshot](foto/1.png)
-![Contoh Screenshot](foto/2.png)
-![Contoh Screenshot](foto/3.png)
-![Contoh Screenshot](foto/4.png)
-![Contoh Screenshot](foto/5.png)
+![Contoh Screenshot](foto/1.jpeg)
 
 
