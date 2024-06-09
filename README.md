@@ -14,5 +14,10 @@ Fitur :
 - Hapus History
 
 ![Contoh Screenshot](foto/1.jpeg)
+![Contoh Screenshot](foto/2.jpeg)
+![Contoh Screenshot](foto/3.jpeg)
+![Contoh Screenshot](foto/4.jpeg)
+![Contoh Screenshot](foto/5.jpeg)
+
 
 
