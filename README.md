@@ -1,16 +1,22 @@
 # calculator
 
-A new Flutter project.
+Project Portofolio Kalkulator dengan History hasil belajar Flutter
 
-## Getting Started
+Fitur :
+- Pengurangan
+- Penjumlahan
+- Pembagian
+- Perkalian
+- Perpangkatan
+- Akar Pangkat
+- Bilangan Desimal
+- History (Database Local SQLlite)
+- Hapus History
 
-This project is a starting point for a Flutter application.
+![Contoh Screenshot](foto/1.png)
+![Contoh Screenshot](foto/2.png)
+![Contoh Screenshot](foto/3.png)
+![Contoh Screenshot](foto/4.png)
+![Contoh Screenshot](foto/5.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
